@@ -1,0 +1,119 @@
+body {
+  font-family: serif;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+.clear{
+  clear;left
+}
+header{
+  font-size: 10px;
+  width:100%;
+  padding-left: 20px;
+  height:30px
+
+}
+main{
+  width:100%;
+  background-size: cover;
+}
+
+.introduction{
+  background-image: url(https://tadeaizome.com/wp-content/uploads/2020/01/20181028_1148IMG_0434-1-300x300.jpg);
+  background-size: cover;
+  height:1200px;
+
+}
+
+.introduction p{
+  color:white
+}
+.text h1{
+  color: #C5E3E0;
+
+}
+
+.text{
+  display:block;
+  text-align:center;
+  padding-top: 200px;
+  font-weight: bold;
+  width:40%;
+  margin:0 auto;
+}
+
+.explain{
+  text-align: left;
+  display:inline-block;
+  line-height: 60px
+}
+
+
+.contents-title{
+  text-align: center;
+  color:#0F254C;
+  padding-top:100px
+
+}
+.shokunin{
+  margin-top:100px
+}
+
+a{
+  color:white;
+  font-size:25px;
+  border-radius:50%;
+  font-weight: bold;
+
+
+}
+.circle {
+
+  width:40%;
+  display: inline-block;
+  float:left;
+  text-align: center;
+  margin:10% 5%;
+  box-sizing: border-box;
+}
+.circle p{
+  padding-top: 150px
+}
+.isso{
+  background-image: url(https://www.instagram.com/p/BulJz5EBDTC/media/?size=l);
+  background-position: center;
+  background-size: 110%;
+  color:black;
+  padding: 25% 32%;
+}
+.tadeai{
+  background-image: url(https://tadeaizome.com/wp-content/uploads/2020/01/20181017_1003IMG_0301-%E3%82%B3%E3%83%94%E3%83%BC-%E3%82%B3%E3%83%94%E3%83%BC-1.jpg);
+  background-position: 55% 50%;
+  color:white;
+  padding: 25% 32%;
+}
+.kosoen{
+  background-image: url(https://image.jimcdn.com/app/cms/image/transf/dimension=2048x2048:format=jpg/path/sd0d9063aed663263/image/i770ac60d28f1964d/version/1549270196/image.jpg);
+  background-position: center;
+  background-size: 110%;
+  color:white;
+  padding: 25% 27%;
+}
+.ryukyu{
+  background-image: url(https://www.instagram.com/p/Bylmx9dJ932/media/?size=l);
+  background-position: center;
+  background-size: 110%;
+  color:white;
+  padding: 25% 32%;
+}
+footer{
+  float:right;
+  font-size: 10px;
+  color:#74ABCA
+}

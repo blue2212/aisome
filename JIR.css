@@ -1,0 +1,32 @@
+@media (max-width: 670px) {
+  .explain{
+    line-height: 30px
+  }
+  .text{
+
+    padding-top: 100px;
+    font-weight: bold;
+    width:90%;
+    margin:0 auto;
+  }
+  .circle p{
+    padding-top: 90px
+  }
+  .isso{
+  padding: 25% 25%;
+  }
+  .kosoen{
+  padding: 25% 18%;
+  }
+  .ryukyu{
+  padding: 25% 25%;
+  }
+  .circle {
+
+    width:90%;
+  }
+  .introduction{
+  height:950px;
+
+  }
+}
